@@ -1,6 +1,7 @@
 # android-dev
 android development reference resources
 - [gladle编译jni模块](http://blog.csdn.net/ashqal/article/details/21869151)
+- [Mac下用Android Studio运行NDK samples](http://charlyzhang.github.io/2016/02/04/Mac%E4%B8%8B%E7%94%A8Android%20Studio%E8%BF%90%E8%A1%8CNDK%20samples/)
 
 ###使用自己的Android.mk和Application.mk来编译C++
 - [Android Studio里自定mk文件](http://david740204.pixnet.net/blog/post/412169557-android-studio%E8%A3%A1%E8%87%AA%E5%AE%9Aandroid.mk%E5%92%8Capplication.mk)
