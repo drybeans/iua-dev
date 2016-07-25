@@ -11,3 +11,6 @@ android development reference resources
 ###使用Android Studio调试C++
 - [Android NDK Preview](http://tools.android.com/tech-docs/android-ndk-preview)
 - [Create Hello-JNI with Android Studio](https://codelabs.developers.google.com/codelabs/android-studio-jni/index.html?index=..%2F..%2Findex#0)
+
+###Android开源集萃 
+- [Android开源集萃（项目篇） ](http://skyseraph.com/2015/11/29/Android/Android%E5%BC%80%E6%BA%90%E9%9B%86%E8%90%83%EF%BC%9A%E9%A1%B9%E7%9B%AE%E7%AF%87/)
